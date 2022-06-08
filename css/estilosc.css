@@ -1,0 +1,20 @@
+.title{
+	text-align: center;
+	margin: 100px;
+	font-size: 80px;
+}
+.owl-container{
+	max-width: 900px;
+	margin: 0 auto;
+}
+.item{
+	background: #794fee;
+	color: aliceblue;
+	justify-content: center;
+	align-items: center;
+	height: 10rem;
+	display: flex;
+}
+.item h4{
+	font-size: 38px;
+}
